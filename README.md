@@ -8,3 +8,6 @@ PS: only after upload i noticed that limits of autoclicker is 66 cps ;(
 
 # todo:
 - [ ] Make it accurate?
+- [ ] Make click repeat *x* times function
+- [ ] Make click types (single//double)
+- [ ] Make switch for mouse buttons
